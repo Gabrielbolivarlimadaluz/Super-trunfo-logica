@@ -14,16 +14,7 @@ A proposta é aplicar estruturas de decisão (`if`, `if-else`, `switch`, operado
 - Uso do operador ternário em decisões
 - Código comentado e estruturado para facilitar o entendimento
 
-## Como executar
 
-1. Compile o programa com um compilador C, como `gcc`:
-```
-gcc super_trunfo_logica.c -o super_trunfo_logica
-```
-2. Execute o programa:
-```
-./super_trunfo_logica
-```
 
 ## Autor
 
